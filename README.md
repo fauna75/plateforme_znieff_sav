@@ -4,7 +4,7 @@ Bienvenue sur le système de gestion de tickets pour le service de maintenance d
 
 ## Comment soumettre un ticket (un bug / une amélioration) ?
 
-Pour soumettre, un ticket il faut vous rendre dans la section **Issues** que vous trouverez dans le menu ci-dessus ou via le lien suivant : [Section "Issues"](https://github.com/oafs72/plateforme_znieff_sav/issues)
+Pour soumettre un ticket, il faut vous rendre dans la section **Issues** que vous trouverez dans le menu ci-dessus ou via le lien suivant : [Section "Issues"](https://github.com/oafs72/plateforme_znieff_sav/issues)
 
 Une fois dans la bonne section, vérifiez que le problème que vous rencontrez ou l'amélioration que vous proposez n'a pas déjà fais l'objet d'un ticket.
 
